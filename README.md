@@ -7,11 +7,11 @@ The notebook contains detailed data analysis, data visualization of total confir
 Also, the SARIMAX model is trained to get future predictions of total cases in the next 20 days.
 
 # Dataset: 
-Multiple CSVs including data of daily updates and states wise cases
-https://www.kaggle.com/imdevskp/covid19-corona-virus-india-dataset?select=nation_level_daily.csv ( Till 26th May 2020)
-Credits : 
-Data from India Health Ministry Website: https://www.mohfw.gov.in/ 
-COVID-19 tracker dashboard https://www.covid19india.org/
+Multiple CSVs including data of daily updates and states wise cases \ 
+https://www.kaggle.com/imdevskp/covid19-corona-virus-india-dataset?select=nation_level_daily.csv ( Till 26th May 2020) \
+Credits : \
+Data from India Health Ministry Website: https://www.mohfw.gov.in/ \
+COVID-19 tracker dashboard https://www.covid19india.org/ \
 
-# Libraries Used :
+# Libraries used :
 Pandas, Numpy, Plotly, statsmodels, matplotlib
